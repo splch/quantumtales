@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="C4A99998-7C14-47DF-8FCA-1CEE9D5E3E36" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Spencers-MacBook-Pro" Author="Spencer Churchill" Modified="2020-09-28 23:47:05 -0700" ModID="8EBAA52D-E6F9-4B80-B07D-90ABBDA9FEEA">
+    <Binder>
+        <BinderItem UUID="6F3A1A0D-66DB-42CE-BADC-DFC210DB3530" Type="DraftFolder" Created="2020-09-25 21:07:36 -0700" Modified="2020-09-25 21:07:36 -0700">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>EAAB22DA-94D2-477E-BFC3-65CEC9D18E0F</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="EAAB22DA-94D2-477E-BFC3-65CEC9D18E0F" Type="Folder" Created="2020-09-25 21:08:05 -0700" Modified="2020-09-25 21:08:28 -0700">
+                    <Title>Teleportation</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>B389321B-423A-450A-80A8-6C97796177FA</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="B389321B-423A-450A-80A8-6C97796177FA" Type="Text" Created="2020-09-25 21:08:01 -0700" Modified="2020-09-28 23:47:05 -0700">
+                            <Title>The Cowherd and the Weaver Girl
+</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>186,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="00F05A1D-A1EA-41AC-B552-FE529F77E904" Type="Folder" Created="2020-09-25 21:08:30 -0700" Modified="2020-09-25 21:08:41 -0700">
+                    <Title>Deutsch-Jozsa</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="299E2AEA-17DA-4227-A68C-A743AB82E86D" Type="Text" Created="2020-09-25 21:07:36 -0700" Modified="2020-09-28 23:21:20 -0700">
+                            <Title>Goldilocks and the Three Bears</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2789,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="38554C14-16BB-43B7-A240-181127DC9B7F" Type="Folder" Created="2020-09-25 21:08:43 -0700" Modified="2020-09-25 21:08:48 -0700">
+                    <Title>Shor's</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="35E77B97-AF07-4517-9C8B-425D1113FB8F" Type="Text" Created="2020-09-25 21:09:00 -0700" Modified="2020-09-28 23:34:41 -0700">
+                            <Title>Ali Baba and Forty Thieves
+</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4981,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="E4F8D208-507B-45AA-9F06-A815C33D34B2" Type="Folder" Created="2020-09-25 21:08:49 -0700" Modified="2020-09-25 21:08:53 -0700">
+                    <Title>Grover's</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B7929AD4-ADBC-4ED3-BA29-670977119F09" Type="Text" Created="2020-09-25 21:09:03 -0700" Modified="2020-09-28 23:36:03 -0700">
+                            <Title>The Hare &amp; the Tortoise
+</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1052,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="10CB874C-FA1D-454F-8193-17177FFCE9AD" Type="ResearchFolder" Created="2020-09-25 21:07:36 -0700" Modified="2020-09-25 21:07:36 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>136A0F05-58C2-4503-92EA-C8E61D60AA78</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="BFDC9C19-07A3-430F-9824-6D12F472098F" Type="PDF" Created="2020-09-25 15:33:59 -0700" Modified="2020-09-25 15:33:59 -0700">
+                    <Title>deutsch-jozsa</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="20BCB30A-BD7B-4DB7-B43A-533F07F217F8" Type="PDF" Created="2020-09-25 15:41:33 -0700" Modified="2020-09-25 15:41:34 -0700">
+                    <Title>grover</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="86C8B548-3645-44E6-AA2B-0D5156B02DE8" Type="PDF" Created="2020-09-25 15:45:15 -0700" Modified="2020-09-25 15:45:15 -0700">
+                    <Title>quantum algorithm implementations for beginners</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="8A486C95-748E-441D-BC1F-B2D97E794246" Type="PDF" Created="2020-09-25 15:44:02 -0700" Modified="2020-09-25 15:44:02 -0700">
+                    <Title>rspa.1998.0164</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="2E9399D3-9647-45AA-900E-B6E4CE772E5F" Type="PDF" Created="2020-09-25 15:40:37 -0700" Modified="2020-09-25 15:40:37 -0700">
+                    <Title>shor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="90B86704-8752-4DF0-97C3-868359CFC739" Type="PDF" Created="2020-09-25 15:38:48 -0700" Modified="2020-09-25 15:38:49 -0700">
+                    <Title>teleportation</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="136A0F05-58C2-4503-92EA-C8E61D60AA78" Type="Folder" Created="2020-09-25 21:11:47 -0700" Modified="2020-09-25 21:11:54 -0700">
+                    <Title>Qiskit Textbook</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="EDBD6EB2-F631-4F75-B56A-314E5AB21CD9" Type="WebArchive" Created="2020-09-25 21:10:01 -0700" Modified="2020-09-25 21:10:01 -0700">
+                            <Title>Teleportation Algorithm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://qiskit.org/textbook/ch-algorithms/teleportation.html</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="196BB4A1-6202-4B07-A85E-804B8C05BFF3" Type="WebArchive" Created="2020-09-25 21:10:57 -0700" Modified="2020-09-25 21:10:57 -0700">
+                            <Title>Deutsch-Jozsa Algorithm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="308B0151-7B62-48E1-BD42-2201A911DF5F" Type="WebArchive" Created="2020-09-25 21:11:17 -0700" Modified="2020-09-25 21:11:17 -0700">
+                            <Title>Shor's Algorithm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://qiskit.org/textbook/ch-algorithms/shor.html</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="45308655-101C-41E7-BC9F-FC8760BF5B14" Type="WebArchive" Created="2020-09-25 21:11:39 -0700" Modified="2020-09-25 21:11:39 -0700">
+                            <Title>Grover's Algorithm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://qiskit.org/textbook/ch-algorithms/grover.html</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="1104A9B9-F405-4461-A98E-A955B92A4379" Type="TrashFolder" Created="2020-09-25 21:07:36 -0700" Modified="2020-09-25 21:07:36 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="4DACCCCD-4431-4856-8CC0-BC21852E95FB" Color="0.150563 0.150563 0.150563">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="20D2D5FD-7B5F-41D0-9C22-FCF22FA9E7BA" Color="0.190667 0.172702 0.216529">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="8F49C5E3-2104-4846-90DD-584980A0B223">Heading</Type>
+            <Type ID="DA4B19A2-D691-4C30-B02D-142EBACFAED3">Sub-Heading</Type>
+            <Type ID="438C33CD-C01D-452D-9602-BCC1FBEF290B">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>8F49C5E3-2104-4846-90DD-584980A0B223</Type>
+            </Folders>
+            <Containers>
+                <Type>438C33CD-C01D-452D-9602-BCC1FBEF290B</Type>
+            </Containers>
+            <Files>
+                <Type>438C33CD-C01D-452D-9602-BCC1FBEF290B</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-09-25 21:07:35 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-29 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2714" Characters="14622" Date="2020-09-28 22:42:13 -0700"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-09-28 00:00:00 -0700">
+        <DraftWordCount>2714</DraftWordCount>
+        <DraftCharCount>14622</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

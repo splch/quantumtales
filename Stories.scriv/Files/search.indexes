@@ -8877,40 +8877,43 @@ Cookie Preferences and Do Not Sell My Info</Text>
         </Document>
         <Document ID="299E2AEA-17DA-4227-A68C-A743AB82E86D">
             <Title>Goldilocks and the Three Bears</Title>
-            <Text>GOLDILOCKS AND THE THREE BEARS
-There was once a little girl whose hair was so bright and yellow that it glittered in the sun like spun-gold. For this reason she was called Goldilocks.
-One day Goldilocks went out into the meadows to gather flowers. She wandered on and on, and after a while she came to a forest, where she had never been before. She went on into the forest, and it was very cool and shady.
-Presently she came to a little house, standing all alone in the forest, and as she was tired and thirsty she knocked at the door. She hoped the good people inside would give her a drink, and let her rest a little while.
-Now, though Goldilocks did not know it, this house belonged to three bears. There was a GREAT BIG FATHER BEAR, and a middling-sized mother bear, and a dear little baby bear, no bigger than Goldilocks herself. But the three bears had gone out to take a walk in the forest while their supper was cooling, so when Goldilocks knocked at the door no one answered her.
-She waited awhile and then she knocked again, and as still nobody answered her she pushed the door open and stepped inside. There in a row stood three chairs. One was a GREAT BIG CHAIR, and it belonged to the father bear. And one was a middling-sized chair, and it belonged to the mother bear, and one was a dear little chair, and it belonged to the baby bear. And on the table stood three bowls of smoking hot porridge. “And so,” thought Goldilocks, “the people must be coming back soon to eat it.”
-She thought she would sit down and rest until they came, so first she sat down in the GREAT BIG CHAIR, but the cushion was too soft. It seemed as though it would swallow her up. Then she sat down in the middle-sized chair, and the cushion was too hard, and it was not comfortable. Then she sat down in the dear little chair, and it was just right, and fitted her as though it had been made for her. So there she sat, and she rocked and she rocked, and she sat and she sat, until with her rocking and her sitting she sat the bottom right out of it.
-And still nobody had come, and there stood the bowls of porridge on the table. “They can’t be very hungry people,” thought Goldilocks to herself, “or they would come home to eat their suppers.” And she went over to the table just to see whether the bowls were full.
-The first bowl was a GREAT BIG BOWL with a GREAT BIG WOODEN SPOON in it, and that was the father bear’s bowl. The second bowl was a middle-sized bowl, with a middle-sized wooden spoon in it, and that was the mother bear’s bowl. And the third bowl was a dear little bowl, with a dear little silver spoon in it, and that was the baby bear’s bowl.
-The porridge that was in the bowls smelled so very good that Goldilocks thought she would just taste it.
-She took up the GREAT BIG SPOON, and tasted the porridge in the GREAT BIG BOWL, but it was too hot. Then she took up the middle-sized spoon and tasted the porridge in the middle-sized bowl, and it was too cold. Then she took up the little silver spoon and tasted the porridge in the dear little bowl, and it was just right, and it tasted so good that she tasted and tasted, and tasted and tasted until she tasted it all up.
-After that she felt very sleepy, so she went upstairs and looked about her, and there were three beds all in a row. The first bed was the GREAT BIG BED that belonged to the father bear. And the second bed was a middling-sized bed that belonged to the mother bear, and the third bed was a dear little bed that belonged to the dear little baby bear.
-Goldilocks lay down on the GREAT BIG BED to try it, but the pillow was too high, and she wasn’t comfortable at all.
-Then she lay down on the middle-sized bed, and the pillow was too low, and that wasn’t comfortable either.
-Then she lay down on the little baby bear’s bed and it was exactly right, and so very comfortable that she lay there and lay there until she went fast asleep.
-Now while Goldilocks was still asleep in the little bed the three bears came home again, and as soon as they stepped inside the door and looked about them they knew that somebody had been there.
-“SOMEBODY’S BEEN SITTING IN MY CHAIR,” growled the father bear in his great big voice, “AND LEFT THE CUSHION CROOKED.”
-“And somebody’s been sitting in my chair,” said the mother bear, “and left it standing crooked.”
-“And somebody’s been sitting in my chair,” squeaked the baby bear, in his shrill little voice, “and they’ve sat and sat till they’ve sat the bottom out”; and he felt very sad about it.
-Then the three bears went over to the table to get their porridge.
-“WHAT’S THIS!” growled the father bear, in his great big voice, “SOMEBODY’S BEEN TASTING MY PORRIDGE, AND LEFT THE SPOON ON THE TABLE.”
-“And somebody’s been taking my porridge,” said the mother bear in her middle-sized voice, “and they’ve splashed it over the side.”
-“And somebody’s been tasting my porridge,” squealed the baby bear, “and they’ve tasted and tasted until they’ve tasted it all up.” And when he said so the baby bear looked as if he were about to cry.
-“If somebody’s been here they must be here still,” said the mother bear; so the three bears went upstairs to look.
-First the father bear looked at his bed. “SOMEBODY’S BEEN LYING ON MY BED AND PULLED THE COVERS DOWN,” he growled in his great big voice.
-Then the mother bear looked at her bed. “Somebody’s been lying on my bed and pulled the pillow off,” said she in her middle-sized voice.
-Then the baby bear looked at his bed, and there lay little Goldilocks with her cheeks as pink as roses, and her golden hair all spread over the pillow.
-“Somebody’s been lying in my bed,” squeaked the baby bear joyfully, “and here she is still!”
-Now when Goldilocks in her dreams heard the great big father bear’s voice she dreamed it was the thunder rolling through the heavens.
-And when she heard the mother bear’s middle-sized voice she dreamed it was the wind blowing through the trees.
-But when she heard the baby bear’s voice it was so shrill and sharp that it woke her right up. She sat up in bed and there were the three bears standing around and looking at her.
-“Oh, my goodness me!” cried Goldilocks. She tumbled out of bed and ran to the window. It was open, and out she jumped before the bears could stop her. Then home she ran as fast as she could, and she never went near the forest again. But the little baby bear cried and cried because he had wanted the pretty little girl to play with.
+            <Text>Goldilocks and the Three Bears
 
-http://gutenberg.org/files/49001/49001-h/49001-h.htm</Text>
+#
+	There was once a little girl whose hair was so bright and yellow that it glittered in the sun like spun-gold. For this reason, she was called Goldilocks.
+	One day Goldilocks went out into the meadows to gather flowers. She wandered on and on, and after a while, she came to a forest, where she had never been before. She went on into the forest, and it was very cool and shady.
+	Presently she came to a little house, standing all alone in the forest, and as she was tired and thirsty, she knocked at the door. She hoped the good people inside would give her a drink and let her rest a little while.
+	Now, though Goldilocks did not know it, this house belonged to three bears. There was a great big father bear, and a middling-sized mother bear, and a dear little baby bear, no bigger than Goldilocks herself. But the three bears had gone out to take a walk in the forest while their supper was cooling, so when Goldilocks knocked at the door, no one answered her.
+	She waited awhile, and then she knocked again, and as still nobody answered her, she pushed the door open and stepped inside. There, in a row, stood three chairs. One was a great big chair, and it belonged to the father bear. And one was a middling-sized chair, and it belonged to the mother bear, and one was a dear little chair, and it belonged to the baby bear. And on the table stood three bowls of smoking hot porridge. "And so," thought Goldilocks, "the people must be coming back soon to eat it."
+	She thought she would sit down and rest until they came, so first, she sat down in the great big chair, but the cushion was too soft. It seemed as though it would swallow her up. Then she sat down in the middle-sized chair, and the cushion was too hard, and it was not comfortable. Then she sat down in the dear little chair, and it was just right and fitted her as though it had been made for her. So there she sat, and she rocked, and she rocked, and she sat, and she sat, until with her rocking and her sitting, she sat the bottom right out of it.
+	And still, nobody had come, and there stood the bowls of porridge on the table. "They can't be very hungry people," thought Goldilocks to herself, "or they would come home to eat their suppers." And she went over to the table to see whether the bowls were full.
+	The first bowl was a great big bowl with a great big wooden spoon in it, and that was the father bear's bowl. The second bowl was a middle-sized bowl, with a middle-sized wooden spoon in it, and that was the mother bear's bowl. And the third bowl was a dear little bowl, with a dear little silver spoon in it, and that was the baby bear's bowl.
+	The porridge in the bowls smelled so very good that Goldilocks thought she would just taste it.
+	She took up the great big spoon and tasted the porridge in the great big bowl, but it was too hot. Then she took up the middle-sized spoon and tasted the porridge in the middle-sized bowl, and it was too cold. Then she took up the little silver spoon and tasted the porridge in the dear little bowl, and it was just right, and it tasted so good that she tasted and tasted and tasted and tasted until she tasted it all up.
+After that, she felt very sleepy, so she went upstairs and looked about her, and there were three beds all in a row. The first bed was the great big bed that belonged to the father bear. And the second bed was a middling-sized bed that belonged to the mother bear, and the third bed was a dear little bed that belonged to the dear little baby bear.
+	Goldilocks lay down on the great big bed to try it, but the pillow was too high, and she wasn't comfortable at all.
+	Then she lay down on the middle-sized bed, and the pillow was too low, and that wasn't comfortable either.
+	Then she lay down on the little baby bear's bed, and it was exactly right, and so very comfortable that she lay there and lay there until she went fast asleep.
+Now while Goldilocks was still asleep in the little bed, the three bears came home again, and as soon as they stepped inside the door and looked about them, they knew that somebody had been there.
+	“Somebody's been sitting in my chair," growled the father bear in his great big voice, "and left the cushion crooked."
+	"And somebody's been sitting in my chair," said the mother bear, "and left it standing crooked."
+	"And somebody's been sitting in my chair," squeaked the baby bear, in his shrill little voice, "and they've sat and sat till they've sat the bottom out," and he felt very sad about it.
+	Then the three bears went over to the table to get their porridge.
+	“What's this‽" growled the father bear, in his great big voice, "somebody's been tasting my porridge, and left the spoon on the table."
+	"And somebody's been taking my porridge," said the mother bear in her middle-sized voice, "and they've splashed it over the side."
+	"And somebody's been tasting my porridge," squealed the baby bear, "and they've tasted and tasted until they've tasted it all up." And when he said so, the baby bear looked as if he were about to cry.
+	"If somebody's been here, they must be here still," said the mother bear, so the three bears went upstairs to look.
+	First, the father bear looked at his bed. "somebody's been lying on my bed and pulled the covers down," he growled in his great big voice.
+	Then the mother bear looked at her bed. "Somebody's been lying on my bed and pulled the pillow off," said she in her middle-sized voice.
+	Then the baby bear looked at his bed, and there lay little Goldilocks with her cheeks as pink as roses, and her golden hair all spread over the pillow.
+	"Somebody's been lying in my bed," squeaked the baby bear joyfully, "and here she is still!"
+	Now when Goldilocks in her dreams heard the great big father bear's voice, she dreamed it was the thunder rolling through the heavens.
+And when she heard the mother bear's middle-sized voice, she dreamed it was the wind blowing through the trees.
+	But when she heard the baby bear's voice, it was so shrill and sharp that it woke her right up. She sat up in bed, and there were the three bears standing around and looking at her.
+	"Oh, my goodness me!" cried Goldilocks. She tumbled out of bed and ran to the window. It was open, and out she jumped before the bears could stop her. Then home she ran as fast as she could, and she never went near the forest again. But the little baby bear cried and cried because he had wanted to play with the pretty little girl.
+ 
+http://gutenberg.org/files/49001/49001-h/49001-h.htm
+</Text>
         </Document>
         <Document ID="EDBD6EB2-F631-4F75-B56A-314E5AB21CD9">
             <Title>Teleportation Algorithm</Title>
@@ -9474,12 +9477,16 @@ This page was created by The Jupyter Book Community</Text>
         <Document ID="B389321B-423A-450A-80A8-6C97796177FA">
             <Title>The Cowherd and the Weaver Girl
 </Title>
-            <Text>The Cowherd and the Weaver Girl
-In late summer, the stars Altair and Vega are high in the night sky, and the Chinese tell the following love story, of which there are many variations:
+            <Text>
+The Cowherd and the Weaver Girl
+
+The tale of the cowherd and the weaver girl is a love story between Zhīnǚ (织女; the weaver girl, symbolizing the star Vega) and Niúláng (牛郎; the cowherd, symbolizing the star Altair). Their love was not allowed; thus, they were banished to opposite sides of the heavenly river (symbolizing the Milky Way). Once a year, on the 7th day of the 7th lunar month, a flock of magpies would form a bridge to reunite the lovers for one day.
 #
-A young cowherd named Niú Láng (牛郎), came across seven fairy sisters bathing in a lake. Encouraged by his mischievous companion the ox, he stole their clothes and waited to see what would happen. The fairy sisters elected the youngest and most beautiful sister Zhī Nǚ (织女) to retrieve their clothing. She agreed to do so, but since Niú Láng had seen her naked, she agreed to his request for marriage. She proved to be a wonderful wife, and Niú Láng to be a good husband. They lived happily and had two children. But the Goddess of Heaven (or in some versions, Zhī Nǚ’s mother) found out that Zhī Nǚ, a fairy girl, had married a mere mortal. The Goddess was furious and ordered Zhī Nǚ to return to heaven. (Alternatively, the Goddess forced the fairy back to her former duty of weaving colorful clouds, a task she neglected while living on earth with a mortal.) On Earth, Niú Láng was very upset that his wife had disappeared. Suddenly, his ox began to talk, telling him that if he killed it and put on its hide, he would be able to go up to Heaven to find his wife. Crying bitterly, he killed the ox, put on the skin, and carried his two beloved children off to Heaven to find Zhī Nǚ. The Goddess discovered this and was very angry. Taking out her hairpin, the Goddess scratched a wide river in the sky to separate the two lovers forever, thus forming the Milky Way between Altair and Vega.
-Zhī Nǚ must sit forever on one side of the river, sadly weaving on her loom, while Niú Láng watches her from afar and takes care of their two children (his flanking stars β and γ Aquilae or by their Chinese names Hè Gu 1 and Hè Gu 3).
-But once a year all the magpies in the world would take pity on them and fly up into heaven to form a bridge (鵲橋, "the bridge of magpies", Que Qiao) over the star Deneb in the Cygnus constellation so the lovers may be together for a single night, which is the seventh night of the seventh moon.</Text>
+A young cowherd named Niúláng came across seven fairy sisters bathing in a lake. Encouraged by his mischievous companion, the ox, he stole their clothes and waited to see what would happen. The fairy sisters elected the youngest and most beautiful sister Zhīnǚ to retrieve their clothing. She agreed to do so, but since Niúláng had seen her naked, she agreed to his request for marriage. She proved to be a wonderful wife, and Niúláng to be a good husband. They lived happily and had two children.
+But the Goddess of Heaven found out that Zhīnǚ, a fairy girl, had married a mere mortal. The Goddess was furious and ordered Zhīnǚ to return to Heaven and weave colorful clouds — a task she neglected while living on earth with a mortal. On Earth, Niúláng was very upset that his wife had disappeared. Suddenly, his ox began to talk, telling him that if he killed it and put on its hide, he would be able to go up to Heaven to find his wife. Crying bitterly, he killed the ox, put on the skin, and carried his two beloved children off to Heaven to find Zhīnǚ. The Goddess discovered this and was very angry. Taking out her hairpin, the Goddess scratched a wide river in the sky to separate the two lovers forever, thus forming the Milky Way between Altair and Vega.
+Zhīnǚ must sit forever on one side of the heavenly river, sadly weaving on her loom, while Niúláng watches her from afar and takes care of their two children.
+But once a year, all the magpies in the world would take pity on them, fly into Heaven, and form a bridge across the Milky Way so the lovers may be together for a single night. The seventh night of the seventh moon.
+http://en.chinaculture.org/focus/focus/2010qixi/2010-08/16/content_391106.htm</Text>
         </Document>
         <Document ID="8A486C95-748E-441D-BC1F-B2D97E794246">
             <Title>rspa.1998.0164</Title>
@@ -9863,36 +9870,37 @@ Proc. R. Soc. Lond. A (1998)
 </Text>
         </Document>
         <Document ID="B7929AD4-ADBC-4ED3-BA29-670977119F09">
-            <Title>The Hare &amp; the Tortoise
+            <Title>The Hare and the Tortoise
 </Title>
-            <Text>The Hare &amp; the Tortoise
-#
-A Hare was making fun of the Tortoise one day for being so slow.
-"Do you ever get anywhere?" he asked with a mocking laugh.
-"Yes," replied the Tortoise, "and I get there sooner than you think. I'll run you a race and prove it."
-The Hare was much amused at the idea of running a race with the Tortoise, but for the fun of the thing he agreed. So the Fox, who had consented to act as judge, marked the distance and started the runners off.
-The Hare was soon far out of sight, and to make the Tortoise feel very deeply how ridiculous it was for him to try a race with a Hare, he lay down beside the course to take a nap until the Tortoise should catch up.
-#
-The Tortoise meanwhile kept going slowly but steadily, and, after a time, passed the place where the Hare was sleeping. But the Hare slept on very peacefully; and when at last he did wake up, the Tortoise was near the goal. The Hare now ran his swiftest, but he could not overtake the Tortoise in time.
-The race is not always to the swift.
+            <Text>The Hare and the Tortoise
 
+#
+	A Hare was making fun of the Tortoise one day for being so slow.
+	"Do you ever get anywhere?" he asked with a mocking laugh.
+	"Yes," replied the Tortoise, "and I get there sooner than you think. I'll run you a race and prove it."
+	The Hare was much amused at the idea of running a race with the Tortoise, but for the fun of the thing, he agreed. So the Fox, who had consented to act as judge, marked the distance and started the runners off.
+	The Hare was soon far out of sight, and to make the Tortoise feel very deeply how ridiculous it was for him to try a race with a Hare, he lay down beside the course to take a nap until the Tortoise should catch up.
+#
+	The Tortoise meanwhile kept going slowly but steadily, and, after a time, passed the place where the Hare was sleeping. But the Hare slept on very peacefully, and when at last he did wake up, the Tortoise was near the goal. The Hare now ran his swiftest, but he could not overtake the Tortoise in time.
+
+The race is not always to the swift.
+ 
 http://read.gov/aesop/025.html</Text>
         </Document>
         <Document ID="35E77B97-AF07-4517-9C8B-425D1113FB8F">
             <Title>Ali Baba and Forty Thieves
 </Title>
             <Text>Ali Baba and Forty Thieves
-The story takes place in Baghdad during the Abbasid era. Ali Baba and his elder brother Cassim are the sons of Ali Baba and forty thievesa merchant. After the death of their father, the greedy Cassim marries a wealthy woman and becomes well-to-do, building on their father's business - but Ali Baba marries a poor woman and settles into the trade of a woodcutter.
-#
-One day Ali Baba is at work collecting and cutting firewood in the forest, and he happens to overhear a group of forty thieves visiting their treasure store. The treasure is in a cave, the mouth of which is sealed by magic. It opens on the words "Open, Simsim", and seals itself on the words "Close, Simsim". When the thieves are gone, Ali Baba enters the cave himself, and takes some of the treasure home.
-Ali Baba borrows his sister-in-law's scales to weigh this new wealth of gold coins. Unbeknownst to Ali, she puts a blob of wax in the scales to find out what Ali is using them for, as she is curious to know what kind of grain her impoverished brother-in-law needs to measure. To her shock, she finds a gold coin sticking to the scales and tells her husband, Ali Baba's rich and greedy brother, Cassim. Under pressure from his brother, Ali Baba is forced to reveal the secret of the cave. Cassim goes to the cave and enters with the magic words, but in his greed and excitement over the treasures forgets the magic words to get back out again. The thieves find him there, and kill him. When his brother does not come back, Ali Baba goes to the cave to look for him, and finds the body, quartered and with each piece displayed just inside the entrance of the cave to discourage any similar attempts in the future.
-Ali Baba brings the body home, where he entrusts Morgiana, a clever slave-girl in Cassim's household, with the task of making others believe that Cassim has died a natural death. First, Morgiana purchases medicines from an apothecary, telling him that Cassim is gravely ill. Then, she finds an old tailor known as Baba Mustafa whom she pays, blindfolds, and leads to Cassim's house. There, overnight, the tailor stitches the pieces of Cassims' body back together, so that no one will be suspicious. Ali and his family are able to give Cassim a proper burial without anyone asking awkward questions.
-The thieves, finding the body gone, realize that yet another person must know their secret, and set out to track him down. One of the thieves goes down to the town and comes across Baba Mustafa, who mentions that he has just sewn a dead man's body back together. Realizing that the dead man must have been the thieves' victim, the thief asks Baba Mustafa to lead the way to the house where the deed was performed. The tailor is blindfolded again, and in this state he is able to retrace his steps and find the house. The thief marksforty thieves the door with a symbol. The plan is for the other thieves to come back that night and kill everyone in the house. However, the thief has been seen by Morgiana and she, loyal to her master, foils his plan by marking all the houses in the neighborhood with a similar marking. When the 40 thieves return that night, they cannot identify the correct house and the head thief kills the lesser thief. The next day, another thief revisits Baba Mustafa and tries again, only this time, a chunk is chipped out of the stone step at Ali Baba's front door. Again Morgiana foils the plan by making similar chips in all the other doorsteps. The second thief is killed for his stupidity as well. At last, the head thief goes and looks for himself. This time, he memorizes every detail he can of the exterior of Ali Baba's house.
-#
-The chief of the thieves pretends to be an oil merchant in need of Ali Baba's hospitality, bringing with him Forty thieves hiding in oil jarsmules loaded with thirty-eight oil jars, one filled with oil, the other thirty-seven hiding the other remaining thieves. Once Ali Baba is asleep, the thieves plan to kill him. Again, Morgiana discovers and foils the plan, killing the thirty-seven thieves in their oil jars by pouring boiling oil on them. When their leader comes to rouse his men, he discovers that they are dead, and escapes.
-To exact revenge, after some time the thief establishes himself as a merchant, befriends Ali Baba's son (who is now in charge of the late Cassim's business), and is invited to dinner at Ali Baba's house. The thief is recognized by Morgiana, who performs a dance with a dagger for the diners and plunges it into the heart of the thief when he is off his guard. Ali Baba is at first angry with Morgiana, but when he finds out the thief tried to kill him, he gives Morgiana her freedom and marries her to his son. Ali Baba is then left as the only one knowing the secret of the treasure in the cave and how to access it. Thus, the story ends happily for everyone except the forty thieves and Cassim.
 
-https://www.kidsgen.com/stories/arabian_tales/ali_baba_and_forty_thieves.htm</Text>
+	Ali Baba and his older brother, Cassim, are the sons of a merchant. After their father's death, the greedy Cassim marries a wealthy woman and becomes well-to-do, building on their father's business. Ali Baba marries a poor woman and settles into the trade of a woodcutter.
+	One day, Ali Baba is at work collecting and cutting firewood in the forest, when he happens to overhear a group of 40 thieves visiting their stored treasure. Their treasure is in a cave, the mouth of which is sealed by a huge rock. It opens on the magic words "open sesame" and seals itself on the words "close sesame." When the thieves are gone, Ali Baba enters the cave himself and takes a single bag of gold coins home.
+	Ali Baba and his wife borrow his sister-in-law's scales to weigh their new wealth. Unbeknownst to them, Cassim's wife puts a blob of wax in the scales to find out what Ali Baba is using them for, as she is curious to know what kind of grain her impoverished brother-in-law needs to measure. To her shock, she finds a gold coin sticking to the scales and tells her husband. Under pressure from his brother, Ali Baba is forced to reveal the secret of the cave. Cassim goes to the cave, taking a donkey with him to take as much treasure as possible. He enters the cave with the magic words. However, in his greed and excitement over the treasure, he forgets the words to get out again and ends up trapped. The thieves find him there and kill him. When his brother does not come back, Ali Baba goes to the cave to look for him, and finds the body quartered and with each piece displayed just inside the cave's entrance, as a warning to anyone else who might try to enter.
+	Ali Baba brings the body home where he entrusts Morgiana, a clever slave-girl from Cassim's household, with the task of making others believe that Cassim has died a natural death. First, Morgiana purchases medicines from an apothecary, telling him that Cassim is gravely ill. Then, she finds an old tailor known as Baba Mustafa, whom she pays, blindfolds, and leads to Cassim's house. There, overnight, the tailor stitches the pieces of Cassim's body back together. Ali Baba and his family are able to give Cassim a proper burial without anyone suspecting anything.
+	The thieves, finding the body gone, realize that another person must know their secret, and they set out to track him down. One of the thieves goes down to the town and comes across Baba Mustafa, who mentions that he has just sewn a dead man's body back together. Realizing the dead man must have been the thieves' victim, the thief asks Baba Mustafa to lead the way to the house where the deed was performed. The tailor is blindfolded again, and in this state, he is able to retrace his steps and find the house. The thief marks the door with a symbol so the other thieves can come back that night and kill everyone in the house. However, the thief has been seen by Morgiana, who, loyal to her master, foils the thief's plan by marking all the houses in the neighborhood similarly. When the 40 thieves return that night, they cannot identify the correct house, and their leader kills the unsuccessful thief in a furious rage. The next day, another thief revisits Baba Mustafa and tries again. Only this time, a chunk is chipped out of the stone step at Ali Baba's front door. Again, Morgiana foils the plan by making similar chips in all the other doorsteps, and the second thief is killed for his failure as well. At last, the leader of the thieves goes and looks himself. This time, he memorizes every detail he can of the exterior of Ali Baba's house.
+	The thieves' leader pretends to be an oil merchant in need of Ali Baba's hospitality, bringing with him mules loaded with 38 oil jars, one filled with oil, the other 37 hiding the other remaining thieves. Once Ali Baba is asleep, the thieves plan to kill him. Again, Morgiana discovers and foils the plan, killing the 37 thieves in their oil jars by pouring boiling oil on them. When their leader comes to rouse his men, he discovers they are all dead and escapes. The next morning, Morgiana tells Ali Baba about the thieves in the jars. They bury them, and Ali Baba shows his gratitude by giving Morgiana her freedom.
+	To exact revenge, the thieves' leader establishes himself as a merchant, befriends Ali Baba's son (who is now in charge of the late Cassim's business), and is invited to dinner at Ali Baba's house. However, the thief is recognized by Morgiana, who performs a swords dance with a dagger for the diners and plunges it into the thief's heart when he is off his guard. Ali Baba is at first angry with Morgiana, but when he finds out the thief wanted to kill him, he is extremely grateful and rewards Morgiana by marrying her to his son. Ali Baba is then left as the only one knowing the secret of the treasure in the cave and how to access it.
+
+https://en.wikipedia.org/wiki/Ali_Baba_and_the_Forty_Thieves</Text>
         </Document>
         <Document ID="2E9399D3-9647-45AA-900E-B6E4CE772E5F">
             <Title>shor</Title>

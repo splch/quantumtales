@@ -22,7 +22,7 @@ Shor’s Algorithm - coprime factorization
 Grover’s Algorithm - unordered search
 — Greece
 — The Tortoise and the Hare
-— Tortoise vs Hare - Quantum Rematch
+— Tortoise vs Hare - Quantum Rematch ✅
 — hare ~ fair, software
 — tortoise optimizes travel with grover’s algorithm
 — was getting too smart

@@ -1,0 +1,31 @@
+Quantum Tales - planning notes
+
+Quantum Teleportation - teleport information
+— China
+— The Cowherd and the Weaver Girl
+— The Entangled Love of Cowherd and Weaver Girl ✅
+— they use entangled particles to communicate and entangle more every valentines day to talk all year
+
+Deutsch-Jozsa - balanced or constant functions
+— England
+— Goldilocks
+— Goldilocks and Balanced Bowl
+— Goldilocks Shows Her Quantum Chops
+— goldilocks uses dj to determine which bowels of porridge have 100% cold or hot water and which is 50%/50%
+
+Shor’s Algorithm - coprime factorization
+— Arabia
+— Ali Baba and the Forty Thieves
+— Ali Baba and the RSA Keys ✅
+— the thieves use rsa to encrypt “open sesame” and ali baba decrypts “open sesame” with shor’s algorithm
+
+Grover’s Algorithm - unordered search
+— Greece
+— The Tortoise and the Hare
+— Tortoise vs Hare - Quantum Rematch
+— hare ~ fair, software
+— tortoise optimizes travel with grover’s algorithm
+— was getting too smart
+— rumbled along
+— the hare was bound to win
+— hare game trail

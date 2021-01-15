@@ -9,8 +9,7 @@ Quantum Teleportation - teleport information
 Deutsch-Jozsa - balanced or constant functions
 — England
 — Goldilocks
-— Goldilocks and Balanced Bowl
-— Goldilocks Shows Her Quantum Chops
+— Goldilocks and the Quantum Spoon
 — goldilocks uses dj to determine which bowels of porridge have 100% cold or hot water and which is 50%/50%
 
 Shor’s Algorithm - coprime factorization

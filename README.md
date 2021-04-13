@@ -6,7 +6,7 @@
 
 <br>
 
-| [![Quantum Tales](https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Docs_logo.svg)](https://docs.google.com/document/d/1nlGzXv09roHMtTjlJQhJ6ZnwWMDHeGKi_Xnk8mygjEw) |
+| [![Quantum Tales](https://upload.wikimedia.org/wikipedia/commons/6/66/Google_Docs_2020_Logo.svg)](https://docs.google.com/document/d/1nlGzXv09roHMtTjlJQhJ6ZnwWMDHeGKi_Xnk8mygjEw) |
 |:--:| 
 | *Quantum Tales* |
 

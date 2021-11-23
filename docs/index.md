@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## Quantum Tales
 
-You can use the [editor on GitHub](https://github.com/splch/quantum-tales/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Explore the world of quantum through the lens of classic fairy tales. Thanks to the generous support of the [Unitary Fund](https://unitary.fund), I am able to write this book and relate algorithms to fanciful situations. My goal is to demonstrate interesting qualities and applications of quantum computing in *real* life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Google Docs
 
-### Markdown
+The book is written in Google Docs to encourage collaboration. There are two links:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. For [viewing](https://docs.google.com/document/d/e/2PACX-1vT3NCX_vxVFPs9MaIklmZPWSlavLx6xckD1nEhfFOatyTBd1ldaS0SOeWwFzA4zGv_FjrPP4Y0NFN96/pub)
+2. For [editing](https://docs.google.com/document/d/1nlGzXv09roHMtTjlJQhJ6ZnwWMDHeGKi_Xnk8mygjEw/)
+
+### PDF Format
+
+The book is offered in a beautiful PDF complete with illustrations from the talented [Larissa Sharina](https://www.fiverr.com/vect_hbg). It is available [here](https://github.com/splch/quantum-tales/blob/master/Quantum%20Tales.pdf).
+
+### GitHub Repository
+
+All other code samples and notes are in the [GitHub repository](https://github.com/splch/quantum-tales). This project is ongoing and will expand as more tales are related to more algorithms. So, feel free to make a pull request and have your name added to the illustrious list of contributors!
+
+### Info
+
+Contact me at [spence@duck.com](mailto:spence@duck.com?subject=Quantum Tales) with any input about the project or [create an issue](https://github.com/splch/quantum-tales/issues/new/choose) on GitHub.
+
+This page is generated with the [Minimal Jekyll Theme](https://github.com/pages-themes/minimal) and Markdown.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +41,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/splch/quantum-tales/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

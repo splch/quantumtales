@@ -2,6 +2,13 @@
 
 Explore the world of quantum through the lens of classic fairy tales. Thanks to the generous support of the [Unitary Fund](https://unitary.fund), I am able to write this book and relate algorithms to fanciful situations. My goal is to demonstrate interesting qualities and applications of quantum computing in *real* life.
 
+Upcoming stories:
+
+1. What Came of Picking Flowers
+  * Bernstein-Vazirani
+2. The Lady, or the Tiger?
+  * Superposition
+
 ### Google Docs
 
 The book is written in Google Docs to encourage collaboration. There are two links:
@@ -11,7 +18,7 @@ The book is written in Google Docs to encourage collaboration. There are two lin
 
 ### PDF Format
 
-The book is offered in a beautiful PDF complete with illustrations from the talented [Larissa Sharina](https://www.fiverr.com/vect_hbg). It is available [here](https://github.com/splch/quantum-tales/blob/master/Quantum%20Tales.pdf).
+Quantum Tales is offered as a beautiful PDF, complete with illustrations from the talented [Larissa Sharina](https://www.fiverr.com/vect_hbg). It is available [here](https://github.com/splch/quantum-tales/blob/master/Quantum%20Tales.pdf).
 
 If you'd prefer to preview it, this frame is hosted from Adobe.
 
@@ -26,8 +33,4 @@ All other code samples and notes are in the [GitHub repository](https://github.c
 ### Info
 
 Contact me at [spence@duck.com](mailto:spence@duck.com?subject=Quantum Tales) with any input about the project or [create an issue](https://github.com/splch/quantum-tales/issues/new/choose) on GitHub.
-
-Upcoming stories:
-1. What Came of Picking Flowers
-2. The Lady and the Tiger
 

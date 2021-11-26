@@ -27,23 +27,7 @@ All other code samples and notes are in the [GitHub repository](https://github.c
 
 Contact me at [spence@duck.com](mailto:spence@duck.com?subject=Quantum Tales) with any input about the project or [create an issue](https://github.com/splch/quantum-tales/issues/new/choose) on GitHub.
 
-This page is generated with the [Minimal Jekyll Theme](https://github.com/pages-themes/minimal) and Markdown.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Upcoming stories:
+1. What Came of Picking Flowers
+2. The Lady and the Tiger
 

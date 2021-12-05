@@ -12,7 +12,9 @@ Upcoming stories:
   * Superposition
 3. The Tale of the Bamboo Cutter
   * Variational Quantum Eigensolver
-4. TBD
+4. The Red and Blue Coat
+  * Many-Worlds Interpretation
+5. TBD
   * Interference
 
 ### Google Docs

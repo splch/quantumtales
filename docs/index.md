@@ -33,7 +33,9 @@ Quantum Tales is offered as a beautiful PDF, complete with illustrations from th
 If you'd prefer to preview it, this frame is hosted from Adobe.
 
 {% raw %}
+
 <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/137d0d9c-d79d-4d62-82a2-9286ae6c4d17?startpage=1&allowFullscreen=true" width="100%" style="aspect-ratio: 17/11;" frameborder="0" allowfullscreen=""></iframe>
+
 {% endraw %}
 
 If you enjoy the project, you can help fund more illustrations by purchasing the hardcover [here](). The printing is of the highest quality, bringing the illustrations and story to a timeless medium.

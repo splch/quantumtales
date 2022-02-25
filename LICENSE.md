@@ -10,7 +10,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 3. **BY-NC-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](creativecommons.org/compatiblelicenses), approved by Creative Commons as essentially the equivalent of this Public License.
 
-4. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](#s2b) are not Copyright and Similar Rights.
+4. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](#section-2--scope) are not Copyright and Similar Rights.
 
 5. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 
@@ -44,9 +44,9 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
    2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
-   3. Term. The term of this Public License is specified in Section [6(a)](#s6a).
+   3. Term. The term of this Public License is specified in Section [6(a)](#section-6--term-and-termination).
 
-   4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted Material.
+   4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#section-2--scope) never produces Adapted Material.
 
    5. Downstream recipients.
 
@@ -56,7 +56,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
       3. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
-   6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).
+   6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#section-3--license-conditions).
 
 2. **Other rights**.
 
@@ -90,13 +90,13 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
       3. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
-   2. You may satisfy the conditions in Section [3(a)(1)](#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+   2. You may satisfy the conditions in Section [3(a)(1)](#section-3--license-conditions) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
-   3. If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#s3a1A) to the extent reasonably practicable.
+   3. If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#section-3--license-conditions) to the extent reasonably practicable.
 
 2. **ShareAlike**.
 
-   In addition to the conditions in Section [3(a)](#s3a), if You Share Adapted Material You produce, the following conditions also apply.
+   In addition to the conditions in Section [3(a)](#section-3--license-conditions), if You Share Adapted Material You produce, the following conditions also apply.
 
    1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.
 
@@ -108,13 +108,13 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
-1. for the avoidance of doubt, Section [2(a)(1)](#s2a1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
+1. for the avoidance of doubt, Section [2(a)(1)](#section-2--scope) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
 
-2. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section [3(b)](#s3b); and
+2. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section [3(b)](#section-3--license-conditions); and
 
-3. You must comply with the conditions in Section [3(a)](#s3a) if You Share all or a substantial portion of the contents of the database.
+3. You must comply with the conditions in Section [3(a)](#section-3--license-conditions) if You Share all or a substantial portion of the contents of the database.
 
-For the avoidance of doubt, this Section [4](#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+For the avoidance of doubt, this Section [4](#section-4--sui-generis-database-rights) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 ## Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
@@ -128,17 +128,17 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 1. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
-2. Where Your right to use the Licensed Material has terminated under Section [6(a)](#s6a), it reinstates:
+2. Where Your right to use the Licensed Material has terminated under Section [6(a)](#section-6--term-and-termination), it reinstates:
 
    1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
    2. upon express reinstatement by the Licensor.
 
-   For the avoidance of doubt, this Section [6(b)](#s6b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+   For the avoidance of doubt, this Section [6(b)](#section-6--term-and-termination) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
 3. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
-4. Sections [1](#s1), [5](#s5), [6](#s6), [7](#s7), and [8](#s8) survive termination of this Public License.
+4. Sections [1](#section-1--definitions), [5](#section-5--disclaimer-of-warranties-and-limitation-of-liability), [6](#section-6--term-and-termination), [7](#section-7--other-terms-and-conditions), and [8](#section-8--interpretation) survive termination of this Public License.
 
 ## Section 7 – Other Terms and Conditions.
 
@@ -158,6 +158,6 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 ---
 
-      Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](creativecommons.org/publicdomain/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](creativecommons.org/publicdomain/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
-      Creative Commons may be contacted at [creativecommons.org](creativecommons.org/).
+Creative Commons may be contacted at [creativecommons.org](creativecommons.org/).

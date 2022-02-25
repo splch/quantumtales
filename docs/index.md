@@ -1,21 +1,30 @@
 ## Quantum Tales
 
-Explore the world of quantum through the lens of classic fairy tales. Thanks to the generous support of the [Unitary Fund](https://unitary.fund), I am able to write this book and relate algorithms to fanciful situations. My goal is to demonstrate interesting qualities and applications of quantum computing in *real* life.
+Explore the world of quantum through the lens of classic fairy tales. Thanks to the generous support of the [Unitary Fund](https://unitary.fund), I am able to write this book and relate algorithms to fanciful situations. My goal is to demonstrate interesting qualities and applications of quantum computing in _real_ life.
 
 For each story, I include its inspiration in the `sources/` directory. If you're unfamiliar with a tale, I recommend that you read the original story. This project is serving two goals: one is to bring quantum to more audiences, and the other is to spread countries' stories across borders.
 
 Upcoming stories:
 
 1. What Came of Picking Flowers
-  * Bernstein-Vazirani
+
+   - Bernstein-Vazirani
+
 2. The Lady, or the Tiger?
-  * Superposition
+
+   - Superposition
+
 3. The Tale of the Bamboo Cutter
-  * Variational Quantum Eigensolver
+
+   - Variational Quantum Eigensolver
+
 4. The Red and Blue Coat
-  * Many-Worlds Interpretation
+
+   - Many-Worlds Interpretation
+
 5. TBD
-  * Interference
+
+   - Interference
 
 ### Google Docs
 
@@ -47,4 +56,3 @@ All other code samples and notes are in the [GitHub repository](https://github.c
 ### Info
 
 Contact me at [spence@duck.com](mailto:spence@duck.com?subject=Quantum Tales) with any input about the project or [create an issue](https://github.com/splch/quantum-tales/issues/new/choose) on GitHub.
-

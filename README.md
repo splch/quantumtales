@@ -13,3 +13,75 @@
 A series of fairy tales with quantum twists. Revisit fables from around the world as lovers, gourmets, and others use quantum algorithms to resolve their conflicts.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/splch/quantum-tales/HEAD)
+
+---
+
+## Regions:
+
+### Africa
+
+- Akamba
+
+- Ashanti
+
+- Bushongo
+
+- Dagomba
+
+- Dahomean
+
+- Kikuyu
+
+- Kongo ✓
+
+- Kono
+
+- Krachi
+
+- Swahili
+
+- Tutsi
+
+- Yoruba
+
+### America
+
+- Algonquian
+
+- American ✓
+
+- Iroquois
+
+### Asia
+
+- Burmese
+
+- Chinese ✓
+
+- Indian
+
+- Japanese ✓
+
+- Vietnamese
+
+### Europe
+
+- Celtic
+
+- English ✓
+
+- Greek ✓
+
+- Irish
+
+- Norse
+
+- Portuguese ✓
+
+- Scottish
+
+### Middle East
+
+- Jewish
+
+- Syrian ✓

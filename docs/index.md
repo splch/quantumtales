@@ -37,7 +37,7 @@ There are two links:
 
 ### PDF Format
 
-Quantum Tales is offered as a beautiful PDF, complete with illustrations from the talented [Larissa Sharina](https://www.fiverr.com/vect_hbg). It is available [here](https://github.com/splch/quantum-tales/blob/master/Quantum%20Tales.pdf).
+Quantum Tales is offered as a beautiful PDF, complete with illustrations from the talented [Larissa Sharina](https://www.fiverr.com/vect_hbg). It is available [here](https://github.com/splch/quantumtales/blob/master/Quantum%20Tales.pdf).
 
 If you'd prefer to preview it, this frame is hosted from Adobe.
 
@@ -51,8 +51,8 @@ If you enjoy the project, you can help fund more illustrations by purchasing the
 
 ### GitHub Repository
 
-All other code samples and notes are in the [GitHub repository](https://github.com/splch/quantum-tales). This project is ongoing and will expand as more tales are related to more algorithms. So, feel free to make a pull request and have your name added to the illustrious list of contributors!
+All other code samples and notes are in the [GitHub repository](https://github.com/splch/quantumtales). This project is ongoing and will expand as more tales are related to more algorithms. So, feel free to make a pull request and have your name added to the illustrious list of contributors!
 
 ### Info
 
-Contact me at [spence@duck.com](mailto:spence@duck.com?subject=Quantum Tales) with any input about the project or [create an issue](https://github.com/splch/quantum-tales/issues/new/choose) on GitHub.
+Contact me at [spence@duck.com](mailto:spence@duck.com?subject=Quantum Tales) with any input about the project or [create an issue](https://github.com/splch/quantumtales/issues/new/choose) on GitHub.

@@ -2,7 +2,7 @@
 
 ## Grover's Algorithm
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/splch/quantum-tales/blob/master/code/Grover's%20Algorithm/Grover's%20Algorithm.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/splch/quantumtales/blob/master/code/Grover's%20Algorithm/Grover's%20Algorithm.ipynb)
 
 <br>
 

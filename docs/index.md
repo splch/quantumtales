@@ -43,7 +43,7 @@ If you'd prefer to preview it, this frame is hosted from Adobe.
 
 {% raw %}
 
-<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/137d0d9c-d79d-4d62-82a2-9286ae6c4d17?startpage=1&allowFullscreen=true" width="100%" style="aspect-ratio: 17/11;" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://github.com/splch/quantumtales/releases/download/book/Quantum-Tales.pdf" width="100%" style="aspect-ratio: 17/11;" frameborder="0" allowfullscreen=""></iframe>
 
 {% endraw %}
 

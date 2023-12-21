@@ -2,3 +2,4 @@ qiskit
 matplotlib
 pylatexenc
 git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability

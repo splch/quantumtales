@@ -4,28 +4,6 @@ Explore the world of quantum through the lens of classic fairy tales. Thanks to 
 
 For each story, I include its inspiration in the `sources/` directory. If you're unfamiliar with a tale, I recommend that you read the original story. This project is serving two goals: one is to bring quantum to more audiences, and the other is to spread countries' stories across borders.
 
-Upcoming stories:
-
-1. What Came of Picking Flowers
-
-   - Bernstein-Vazirani
-
-2. The Lady, or the Tiger?
-
-   - Superposition
-
-3. The Tale of the Bamboo Cutter
-
-   - Variational Quantum Eigensolver
-
-4. The Red and Blue Coat
-
-   - Many-Worlds Interpretation
-
-5. TBD
-
-   - Interference
-
 ### Google Docs
 
 The book is written in Google Docs to encourage collaboration. If there is something that doesn't make sense or an improvement you'd like to make, please leave suggestions in the Google Doc. I have a strict method for the writing that can be in Quantum Tales, so I exert the right to edit any suggestion.

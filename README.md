@@ -12,6 +12,8 @@
 
 A series of fairy tales with quantum twists. Revisit fables from around the world as lovers, gourmets, and others use quantum algorithms to resolve their conflicts.
 
+Read the book at [quantumtales.org](https://quantumtales.org): a free, illustrated PDF with a runnable notebook behind every tale.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/splch/quantumtales/HEAD)
 
 ---

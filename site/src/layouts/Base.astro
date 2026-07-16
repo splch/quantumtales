@@ -1,0 +1,69 @@
+---
+import { Font, getImage } from 'astro:assets';
+import cover from '../assets/cover.jpg';
+import Footer from '../components/Footer.astro';
+import * as site from '../data/site';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = site.title, description = site.description } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL((await getImage({ src: cover, format: 'jpeg' })).src, Astro.site);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Book',
+  name: 'Quantum Tales',
+  author: { '@type': 'Person', name: 'Spencer Churchill' },
+  illustrator: { '@type': 'Person', name: 'Larissa Sharina' },
+  isbn: '9781736547403',
+  bookFormat: 'https://schema.org/EBook',
+  inLanguage: 'en',
+  datePublished: '2021',
+  numberOfPages: 44,
+  image: ogImage,
+  url: Astro.site,
+  license: site.links.license,
+  funder: { '@type': 'Organization', name: 'Unitary Fund', url: site.links.unitaryFund },
+  description: site.socialDescription,
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={canonical} />
+
+    <meta property="og:type" content="book" />
+    <meta property="og:site_name" content="Quantum Tales" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={site.socialDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content={String(cover.width)} />
+    <meta property="og:image:height" content={String(cover.height)} />
+    <meta property="og:image:alt" content={site.coverAlt} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="theme-color" content="#07333b" />
+
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/apple-touch-icon.png" type="image/png" sizes="180x180" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <Font cssVariable="--font-eb-garamond" preload />
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} is:inline />
+  </head>
+  <body>
+    <slot />
+    <Footer />
+  </body>
+</html>

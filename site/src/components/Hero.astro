@@ -1,0 +1,92 @@
+---
+import { Image } from 'astro:assets';
+import cover from '../assets/cover.jpg';
+import { coverAlt, links } from '../data/site';
+---
+
+<div class="top on-teal">
+  <header>
+    <div class="wrap bar">
+      <a class="brand" href="#top">Quantum Tales</a>
+      <nav aria-label="Site">
+        <ul>
+          <li><a href="#tales">The tales</a></li>
+          <li><a href="#read">Ways to read</a></li>
+          <li><a href="#preview">Preview</a></li>
+          <li><a href="#about">Behind the book</a></li>
+          <li><a href={links.repo}>GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-grid">
+      <div class="hero-cover">
+        <Image src={cover} alt={coverAlt} widths={[320, 640, cover.width]} sizes="(min-width: 46rem) 19rem, 78vw" loading="eager" fetchpriority="high" />
+      </div>
+      <div>
+        <h1>Quantum Tales</h1>
+        <p class="lede">Classic fairy tales, retold with real quantum algorithms.</p>
+        <p class="sub">Four stories from China, England, Arabia, and Greece, where teleportation reunites lovers, a single query finds the just-right porridge, and factoring opens a cave of treasure. Free to read, fully illustrated, with runnable code behind every tale.</p>
+        <div class="cta-row">
+          <a class="btn btn-gold" href={links.pdf}>Read the book (free PDF)</a>
+          <a class="btn btn-ghost" href="#tales">Meet the tales</a>
+        </div>
+        <p class="byline">By Spencer Churchill · Illustrated by <a href={links.illustrator}>Larissa Sharina</a> · Supported by the <a href={links.unitaryFund}>Unitary Fund</a></p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<style>
+  .top {
+    background:
+      radial-gradient(80rem 40rem at 85% -20%, rgb(255 255 255 / .05), transparent 60%),
+      linear-gradient(175deg, var(--teal) 60%, var(--teal-deep));
+    color: var(--cream);
+  }
+  header { padding-block: 1.25rem; }
+  .bar { display: flex; flex-wrap: wrap; gap: .75rem 1.75rem; align-items: baseline; }
+  .brand {
+    font-size: 1.25rem; font-weight: 600; letter-spacing: .06em;
+    font-variant: small-caps; color: var(--gold); text-decoration: none;
+  }
+  nav { margin-left: auto; }
+  nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: .25rem 1.5rem; }
+  nav a {
+    font-family: var(--sans);
+    font-size: .9375rem; color: var(--cream);
+    text-decoration: none; padding: .375rem 0; display: inline-block;
+  }
+  nav a:hover { color: var(--gold); text-decoration: underline; text-underline-offset: 4px; }
+
+  .hero { padding-block: clamp(2.5rem, 6vw, 5.5rem) clamp(3.5rem, 8vw, 6rem); }
+  .hero-grid {
+    display: grid; gap: clamp(2rem, 5vw, 4rem);
+    grid-template-columns: 1fr; align-items: center;
+  }
+  @media (min-width: 46rem) { .hero-grid { grid-template-columns: minmax(15rem, 21rem) 1fr; } }
+  .hero-cover { order: 1; justify-self: center; }
+  @media (min-width: 46rem) { .hero-cover { order: 0; } }
+  .hero-cover img {
+    width: min(19rem, 78vw);
+    border-radius: 4px;
+    border: 1px solid rgb(230 200 116 / .45);
+    box-shadow: 0 2px 6px rgb(0 0 0 / .35), 0 24px 48px -12px rgb(0 0 0 / .5);
+    transform: rotate(-1.5deg);
+    transition: transform 250ms ease;
+  }
+  .hero-cover img:hover { transform: rotate(0deg); }
+  h1 {
+    font-size: clamp(2.75rem, 7vw, 4rem);
+    font-weight: 600; line-height: 1.05;
+    letter-spacing: .04em; font-variant: small-caps;
+    color: var(--gold);
+  }
+  .lede { font-size: clamp(1.35rem, 2.6vw, 1.6rem); line-height: 1.35; margin-top: 1rem; }
+  .sub { color: var(--cream-dim); max-width: 34em; margin-top: 1rem; }
+  .byline { color: var(--cream-dim); font-size: 1rem; margin-top: 1.75rem; }
+  .byline a { color: var(--cream); }
+  .cta-row { display: flex; flex-wrap: wrap; gap: .875rem; margin-top: 1.75rem; }
+</style>

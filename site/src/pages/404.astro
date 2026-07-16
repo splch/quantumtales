@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Page not found · Quantum Tales">
+  <main class="section">
+    <div class="wrap">
+      <p class="kicker">404</p>
+      <h1>This page wandered off the path</h1>
+      <p>Like a breadcrumb trail in the deep woods, the link you followed leads nowhere now.</p>
+      <p><a href="/">Return to the tales</a></p>
+    </div>
+  </main>
+</Base>
+
+<style>
+  main { min-height: 60vh; }
+  h1 {
+    font-size: clamp(1.9rem, 3.5vw, 2.4rem);
+    font-weight: 600; line-height: 1.15;
+    letter-spacing: .01em;
+    margin-bottom: .75rem;
+  }
+  p + p { margin-top: 1rem; }
+</style>

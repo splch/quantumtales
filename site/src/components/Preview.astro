@@ -1,0 +1,50 @@
+---
+import { links } from '../data/site';
+---
+
+<div class="preview-shell on-teal">
+  <div class="preview-poster" id="preview-poster">
+    <img src="/apple-touch-icon.png" width="180" height="180" loading="lazy" alt="" />
+    <p class="note">The preview loads the whole book (a 41&nbsp;MB PDF) on this page. On a phone, the PDF button below works better.</p>
+    <button class="btn btn-gold" id="load-preview" type="button">Load the preview</button>
+  </div>
+  <div id="preview-frame" data-pdf={`${links.pdf}#view=FitH`} hidden></div>
+</div>
+
+<style>
+  .preview-shell {
+    border: 1px solid var(--line); border-radius: .75rem;
+    overflow: hidden; box-shadow: var(--shadow); background: var(--surface);
+  }
+  .preview-poster {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 1.125rem; text-align: center;
+    padding: clamp(2.5rem, 6vw, 4rem) 1.5rem;
+    background:
+      radial-gradient(60rem 30rem at 50% 120%, rgb(230 200 116 / .12), transparent 70%),
+      linear-gradient(175deg, var(--teal) 60%, var(--teal-deep));
+    color: var(--cream);
+  }
+  .preview-poster img {
+    width: 7.5rem; border-radius: 3px;
+    border: 1px solid rgb(230 200 116 / .45);
+    box-shadow: 0 10px 24px -8px rgb(0 0 0 / .55);
+  }
+  .note { color: var(--cream-dim); font-size: 1rem; max-width: 34em; }
+  #preview-frame :global(iframe) { display: block; width: 100%; height: min(78vh, 46rem); border: 0; }
+</style>
+
+<script>
+  document.getElementById('load-preview')?.addEventListener('click', () => {
+    const poster = document.getElementById('preview-poster');
+    const frame = document.getElementById('preview-frame');
+    if (!poster || !frame) return;
+    const iframe = document.createElement('iframe');
+    iframe.src = frame.dataset.pdf ?? '/quantum-tales.pdf';
+    iframe.title = 'Quantum Tales book preview';
+    frame.replaceChildren(iframe);
+    frame.hidden = false;
+    poster.hidden = true;
+    iframe.focus();
+  });
+</script>

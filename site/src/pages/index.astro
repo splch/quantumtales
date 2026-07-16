@@ -1,0 +1,174 @@
+---
+import Hero from '../components/Hero.astro';
+import Preview from '../components/Preview.astro';
+import TaleCard from '../components/TaleCard.astro';
+import { links } from '../data/site';
+import { tales } from '../data/tales';
+import Base from '../layouts/Base.astro';
+
+const issues = `${links.repo}/issues/new/choose`;
+
+const ways = [
+  {
+    who: 'For story-lovers',
+    title: 'Just read',
+    body: 'Curl up with the illustrated PDF, or read the living manuscript in Google Docs. No physics required; the fables carry you.',
+    links: [
+      { label: 'Open the PDF', href: links.pdf },
+      { label: 'Read in Google Docs', href: links.googleDoc },
+    ],
+  },
+  {
+    who: 'For the curious',
+    title: 'Follow the QR codes',
+    body: 'Scan the code where the magic happens and land in a Jupyter notebook. Read the circuits, variables, and outputs, or run everything in your browser.',
+    links: [
+      { label: 'Browse the notebooks', href: `${links.repo}/tree/master/sources` },
+      { label: 'Launch on Binder', href: 'https://mybinder.org/v2/gh/splch/quantumtales/HEAD' },
+    ],
+  },
+  {
+    who: 'For quantum folk',
+    title: 'Improve the code',
+    body: 'Review the code and the citations. Suggest wording in the Google Doc, where final phrasing stays with the author, or open a pull request and join the contributors.',
+    links: [
+      { label: 'Suggest edits', href: 'https://docs.google.com/document/d/1nlGzXv09roHMtTjlJQhJ6ZnwWMDHeGKi_Xnk8mygjEw/' },
+      { label: 'Open an issue', href: issues },
+    ],
+  },
+];
+---
+
+<Base>
+  <a class="skip-link sans" href="#tales">Skip to the tales</a>
+
+  <Hero />
+
+  <main>
+    <section class="section" id="tales">
+      <div class="wrap">
+        <p class="kicker">The tales</p>
+        <h2>Four tales, four algorithms</h2>
+        <p class="section-intro">Each story pairs a classic fairy tale with the quantum algorithm its plot always wanted. Read the tale, then run the algorithm yourself.</p>
+
+        <div class="tales-grid">
+          {tales.map((tale) => <TaleCard {tale} />)}
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="read">
+      <div class="wrap">
+        <p class="kicker">Ways to read</p>
+        <h2>Read it your way</h2>
+        <p class="section-intro">The stories stand on their own, and the quantum is there when you want it: a QR code appears in each tale the moment its hero runs the algorithm.</p>
+
+        <div class="ways">
+          {ways.map((way) => (
+            <div class="way">
+              <p class="who">{way.who}</p>
+              <h3>{way.title}</h3>
+              <p>{way.body}</p>
+              <p class="way-links">
+                {way.links.map(({ label, href }) => <a href={href}>{label}</a>)}
+              </p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="preview">
+      <div class="wrap">
+        <p class="kicker">Preview</p>
+        <h2>Leaf through the book</h2>
+        <p class="section-intro">The first edition is free to read here, download, or share: all four tales and every illustration.</p>
+
+        <Preview />
+
+        <div class="preview-actions sans">
+          <a class="btn btn-quiet" href={links.pdf}>Open the PDF</a>
+          <a class="btn btn-quiet" href={links.pdf} download="Quantum Tales.pdf">Download</a>
+          <a class="btn btn-quiet" href={links.googleDoc}>Read in Google Docs</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="wrap">
+        <p class="kicker">Behind the book</p>
+        <h2>Old stories, new purpose</h2>
+        <div class="about-grid">
+          <div class="about-copy">
+            <p>Quantum Tales began with a grant from the <a href={links.unitaryFund}>Unitary Fund</a>, whose open-source mission is to bring quantum to everyone. The Qiskit community ranked the algorithms they found most interesting, and that ranking shaped the book.</p>
+            <p>The project serves two goals: sharing quantum with new audiences and carrying countries’ stories across borders. Every retelling keeps its roots. The original tale ships alongside the code, and if a story is new to you, read it first.</p>
+            <p><a href={links.illustrator}>Larissa Sharina</a> painted the cover and every illustration. Asked to illustrate a fairy-tale book and then handed quantum computers, she researched them and brought the vision to life.</p>
+            <p class="sig">Have thoughts, corrections, or a tale that deserves a quantum twist? Write to <a href={links.email}>spence@duck.com</a> or <a href={issues}>open an issue</a>.</p>
+          </div>
+          <aside class="facts" aria-label="Book facts">
+            <h3>The book</h3>
+            <dl>
+              <dt class="sans">Edition</dt><dd>First edition, 2021</dd>
+              <dt class="sans">ISBN</dt><dd>978-1-7365474-0-3</dd>
+              <dt class="sans">Tales</dt><dd>4 stories, 44 pages, fully illustrated</dd>
+              <dt class="sans">Price</dt><dd>Free (PDF and Google Docs)</dd>
+              <dt class="sans">License</dt><dd><a href={links.license}>CC BY-NC-SA 4.0</a></dd>
+              <dt class="sans">Source</dt><dd><a href={links.repo}>github.com/splch/quantumtales</a></dd>
+            </dl>
+          </aside>
+        </div>
+      </div>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .tales-grid { display: grid; gap: 1.75rem; grid-template-columns: 1fr; }
+  @media (min-width: 52rem) { .tales-grid { grid-template-columns: 1fr 1fr; } }
+
+  .ways { display: grid; gap: 1.75rem; grid-template-columns: 1fr; }
+  @media (min-width: 52rem) { .ways { grid-template-columns: 1fr 1fr 1fr; } }
+  .way {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: .75rem; padding: 1.625rem 1.625rem 1.5rem;
+    box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: .625rem;
+  }
+  .way .who {
+    font-family: var(--sans);
+    font-size: .8125rem; font-weight: 600;
+    letter-spacing: .14em; text-transform: uppercase;
+    color: var(--chip-ink);
+  }
+  .way h3 { font-size: 1.4rem; font-weight: 600; }
+  .way p { color: var(--ink-soft); font-size: 1.0625rem; }
+  /* inherits the 1.0625rem paragraph size — .way p outranks a lone class */
+  .way-links {
+    margin-top: auto; padding-top: .75rem;
+    font-family: var(--sans);
+    display: flex; flex-wrap: wrap; gap: .375rem 1.125rem;
+  }
+  .way-links a { display: inline-block; padding-block: .25rem; }
+
+  .preview-actions {
+    display: flex; flex-wrap: wrap; gap: .875rem;
+    margin-top: 1.375rem;
+  }
+
+  .about-grid { display: grid; gap: 2.5rem; grid-template-columns: 1fr; align-items: start; }
+  @media (min-width: 52rem) { .about-grid { grid-template-columns: 3fr 2fr; } }
+  .about-copy p + p { margin-top: 1rem; }
+  .about-copy .sig { font-style: italic; color: var(--ink-soft); }
+  .facts {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: .75rem; padding: 1.625rem; box-shadow: var(--shadow);
+  }
+  .facts h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .875rem; }
+  .facts dl { display: grid; grid-template-columns: auto 1fr; gap: .5rem 1.125rem; font-size: 1rem; }
+  .facts dt {
+    font-size: .8125rem; font-weight: 600; letter-spacing: .04em;
+    text-transform: uppercase; color: var(--ink-soft);
+    padding-top: .2rem;
+  }
+  .facts dd { color: var(--ink); overflow-wrap: anywhere; }
+</style>
